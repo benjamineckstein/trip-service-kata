@@ -10,7 +10,7 @@ import org.craftedsw.tripservicekata.user.User;
 import org.craftedsw.tripservicekata.user.UserSession;
 
 public class TripService_Original {
-
+/*
 	public List<Trip> getTripsByUser(User user) throws UserNotLoggedInException {
 		List<Trip> tripList = new ArrayList<Trip>();
 		User loggedUser = UserSession.getInstance().getLoggedUser();
@@ -30,5 +30,5 @@ public class TripService_Original {
 			throw new UserNotLoggedInException();
 		}
 	}
-	
+	*/
 }
